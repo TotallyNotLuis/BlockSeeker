@@ -1,0 +1,21 @@
+name: BlockSeeker2
+version: '${version}'
+main: me.luis.blockseeker.BlockSeeker
+api-version: 1.19
+
+commands:
+  blockseeker:
+    description: "Default command for BlockSeeker"
+    permission: op
+    aliases:
+      - bs
+  group:
+    description: "Basic command for groups for BlockSeeker"
+    aliases:
+      - party
+  stuck:
+    description: "Teleport to a game's center"
+    permission: op
+    aliases:
+      - imstuck
+      - helpimstuck
