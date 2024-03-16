@@ -1,2 +1,2 @@
-# Block-Seeker
- Seek out players in Minecraft hidden as blocks!
+# Block Seeker
+Code is unfinished, things will definitely not work
